@@ -7,6 +7,6 @@ public class Main {
         System.out.println("Once again - it's a great class!!!!!!!");
 
         System.out.println("A lot of people have problems with git");
-
+        System.out.println("Hi");
     }
 }
